@@ -1,0 +1,54 @@
+html, body {
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.navbar {
+  background: #5f2c82;
+  background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);
+  background: linear-gradient(to right, #49a09d, #5f2c82);
+  align-content: center;
+}
+
+.navbar-brand p {
+  color: #ffffff;
+}
+
+.navbar-brand img {
+  width: 87px;
+}
+
+.navbar-nav ul li a {
+  color: #ffffff;
+  font-size: 200%;
+}
+
+.jumbotron {
+  box-sizing: border-box;
+  border-radius: 0px !important;
+  background: #5f2c82;
+  background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);
+  background: linear-gradient(to right, #49a09d, #5f2c82);
+  border-radius: 0 !important;
+  height: 100vh;
+}
+
+.skills {
+  font-color: #4f8396;
+}
+
+footer {
+  background: #5f2c82;
+  background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);
+  background: linear-gradient(to right, #49a09d, #5f2c82);
+  height: 40px;
+}
+footer p {
+  padding-top: 10px;
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
