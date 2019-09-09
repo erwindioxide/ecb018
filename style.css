@@ -40,6 +40,21 @@ html, body {
   font-color: #4f8396;
 }
 
+@media (max-width: 340px) {
+  .me {
+    width: 175px;
+  }
+}
+@media (min-width: 340px) {
+  .me {
+    width: 175px;
+  }
+}
+@media (min-width: 520px) {
+  .me {
+    width: 375px;
+  }
+}
 footer {
   background: #5f2c82;
   background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);
