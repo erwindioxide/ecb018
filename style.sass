@@ -4,6 +4,7 @@ html, body
 	width: 100% !important
 	box-sizing: border-box
 	font-family: 'Source Sans Pro', sans-serif
+	scroll-behavior: smooth
 
 
 .navbar
@@ -55,6 +56,16 @@ html, body
 @media (min-width: 520px)
 	.me
 		width: 375px
+
+.zoom 
+	transition: transform 0.2s
+
+
+.zoom:hover 
+	-ms-transform: scale(1.05)
+	-webkit-transform: scale(1.05)
+	transform: scale(1.10)
+
 	
 		
 footer
