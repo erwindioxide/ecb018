@@ -1,0 +1,9 @@
+{
+  "name": "ECB018",
+  "short_name": "ECB018",
+  "theme_color": "#49a09d",
+  "background_color": "#49a09d",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
